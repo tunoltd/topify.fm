@@ -12,9 +12,9 @@ const NavLink = props => (
 );
 
 const WebsiteLayout = props => (
-  <div>
+  <div className="flex flex-col min-h-screen">
     <Meta />
-    <header className="bg-black">
+    <header className="flex-none bg-black">
       <nav className="container mx-auto flex items-center justify-between flex-wrap p-4">
         <div className="flex items-center flex-shrink-0 text-white mr-6">
           <Link href="/">
@@ -31,7 +31,7 @@ const WebsiteLayout = props => (
         </div>
       </nav>
     </header>
-    <div>{props.children}</div>
+    <div className="flex-grow">{props.children}</div>
     <Footer />
   </div>
 );

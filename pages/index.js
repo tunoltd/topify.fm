@@ -1,9 +1,11 @@
-import WebsiteLayout from "../layouts/WebsiteLayout";
+import WebsiteLayout from '../layouts/WebsiteLayout';
 
 function Index() {
   return (
     <WebsiteLayout>
-      <h1>topify.fm</h1>
+      <div className="container mx-auto p-4">
+        <h1>topify.fm</h1>
+      </div>
     </WebsiteLayout>
   );
 }
