@@ -26,7 +26,7 @@ const WebsiteLayout = props => (
           <NavLink
             href="/auth"
             label="Sign in with Spotify"
-            className="inline-block text-sm px-4 py-2 leading-none rounded-full text-white bg-green-500 hover:text-white hover:bg-green-600 mt-4 lg:mt-0"
+            className="inline-block text-sm px-4 py-2 leading-none rounded-full text-white bg-green-500 hover:text-white hover:bg-green-600 lg:mt-0"
           />
         </div>
       </nav>
