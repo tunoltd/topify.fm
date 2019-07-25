@@ -11,6 +11,20 @@
   "dependencies": {
     "next": "^8.0.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "eslint": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.14.3",
+    "postcss-easy-import": "^3.0.0",
+    "prettier": "^1.18.2",
+    "tailwindcss": "^1.0.5"
   }
 }

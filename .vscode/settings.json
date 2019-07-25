@@ -1,0 +1,10 @@
+{
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "Shades of Purple",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true
+}

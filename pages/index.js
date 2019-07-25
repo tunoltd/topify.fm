@@ -1,16 +1,10 @@
-import Link from "next/link";
-import Header from "../components/header";
+import WebsiteLayout from "../layouts/WebsiteLayout";
 
 function Index() {
   return (
-    <main>
-      <Header />
-      <section>
-        <Link href="/about">
-          <a>Go to About Me</a>
-        </Link>
-      </section>
-    </main>
+    <WebsiteLayout>
+      <h1>topify.fm</h1>
+    </WebsiteLayout>
   );
 }
 

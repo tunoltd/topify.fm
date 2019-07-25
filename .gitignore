@@ -11,4 +11,7 @@ yarn.lock
 *.log
 pids
 
+.env
+.env.build
+
 .DS_Store
