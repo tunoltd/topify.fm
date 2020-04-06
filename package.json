@@ -24,7 +24,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.14.3",
     "postcss-easy-import": "^3.0.0",
-    "prettier": "^1.18.2",
+    "prettier": "^2.0.3",
     "tailwindcss": "^1.0.5"
   }
 }
