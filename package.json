@@ -18,7 +18,7 @@
     "@zeit/next-css": "^1.0.1",
     "autoprefixer": "^9.6.1",
     "cssnano": "^4.1.10",
-    "eslint": "^6.1.0",
+    "eslint": "^7.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-promise": "^4.2.1",
